@@ -1,9 +1,8 @@
-node_modules
-client/dist
-server/data
-server/uploads
-.env
 node_modules/
+client/dist/
+server/data/
+server/uploads/
+.env
 dist/
 .env
 .env.local
